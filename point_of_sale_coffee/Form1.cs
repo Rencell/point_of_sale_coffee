@@ -15,6 +15,13 @@ namespace point_of_sale_coffee
         public Form1()
         {
             InitializeComponent();
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
+            metroGrid1.Rows.Add("asdsa", "fdssfsd");
         }
     }
 }
